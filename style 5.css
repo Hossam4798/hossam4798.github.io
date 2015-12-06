@@ -1,0 +1,37 @@
+body{
+  background: url("http://www.designbolts.com/wp-content/uploads/2014/05/FIFA-world-cup-Wallpaper-1920x12001.jpg");
+  background-size:cover;
+  background-repeat: no-repeat;
+}
+h1{
+  color: red;
+  font-size: 4em;
+  text-shadow: 2px 2px black;
+}
+p{
+  color: red;
+  font-size: 3em;
+  text-shadow: 2px 2px  black;
+  border: 1px solid red;
+}
+ul {
+  padding: 10px;
+  border: 7px;
+  list-style-type: none;
+  overflow: hidden;
+}
+li {
+  display: inline-block;
+  padding: 0px 10px 0px 10px;
+  padding: top right bottom left;
+  font-size: 2em;
+  float: center;
+  border: 1px;
+}
+a{
+  color: red;
+  text-decoration: none;
+}
+li:hover{
+  background-color: #111;
+}
