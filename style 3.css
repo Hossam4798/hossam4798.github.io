@@ -1,0 +1,36 @@
+body{
+  background: url("http://www.vgu.tv/wp-content/uploads/2013/09/nextgenmessi.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+h1{
+  color: white;
+  font-size: 4em;
+  text-shadow: 2px 2px blue;
+}
+p{
+  color: white;
+  font-size: 3em;
+  text-shadow: 2px 2px blue;
+}
+ul {
+  padding: 10px;
+  border: 7px;
+  list-style-type: none;
+  overflow: hidden;
+}
+li {
+  display: inline-block;
+  padding: 0px 10px 0px 10px;
+  padding: top right bottom left;
+  font-size: 2em;
+  float: center;
+  border: 1px;
+}
+a {
+  color: red;
+  text-decoration: none;
+}
+li:hover{
+  background-color: #111;
+}
